@@ -18,7 +18,7 @@ body{
     flex-direction: column;
     margin: 20px;
     margin-top: 150px;
-    background-image: url(portifolio/strelka.png);
+    background-image: url(strelka.png);
 }
 .desi{
     color: aqua;
